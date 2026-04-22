@@ -194,7 +194,8 @@ Pendekatan integrasi data berbasis concatenation yang dikombinasikan dengan anal
 
 ## 👩‍💻 Author
 
-* (Nama kamu)
+* Kurnia Yufi Satrio Laksono (5026231086)
+* Muhammad Zaky Al Khair (5026231069)
 
 ---
 

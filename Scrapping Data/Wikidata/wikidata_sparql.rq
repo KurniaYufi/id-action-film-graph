@@ -1,0 +1,13 @@
+SELECT ?filmLabel ?actorLabel ?releaseDate WHERE {
+  ?film wdt:P31 wd:Q11424 ;
+        wdt:P495 wd:Q252 ;
+        wdt:P136 wd:Q188473 ;
+        wdt:P161 ?actor ;
+        wdt:P577 ?releaseDate .
+
+  SERVICE wikibase:label { 
+    bd:serviceParam wikibase:language "en,id". 
+  }
+}
+ORDER BY DESC(?releaseDate)
+LIMIT 250

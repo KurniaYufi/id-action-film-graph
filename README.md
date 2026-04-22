@@ -198,10 +198,3 @@ Pendekatan integrasi data berbasis concatenation yang dikombinasikan dengan anal
 * Muhammad Zaky Al Khair (5026231069)
 
 ---
-
-Kalau kamu mau lebih “naik level” lagi buat nilai:
-
-aku bisa bantu tambahin:
-
-* 🔥 **limitasi metode kamu (kenapa concat itu ada kelemahan)**
-* 🔥 **justifikasi kenapa tidak pakai entity resolution (biar dosen makin impressed)**

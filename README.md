@@ -1,7 +1,3 @@
-Oke, aku sesuaikan README kamu **berdasarkan kode integrasi yang kamu pakai** (yang ternyata cukup spesifik: concat, cleaning string, dan deduplication — bukan join/fusion kompleks). Ini penting supaya **laporan kamu konsisten dengan implementasi nyata**.
-
----
-
 # 🎬 Actor Collaboration Network Analysis
 
 **Indonesian Action Film Industry using Knowledge Graph & Graph Data Science**
